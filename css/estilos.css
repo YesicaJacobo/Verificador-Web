@@ -1,0 +1,115 @@
+/*General*/
+html, body{
+    margin: 0;
+    color: rgb(17, 12, 92);
+}
+img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+.fondo{
+    background-color: #0f0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.subfondo{
+    background-color: #FFFFFF;
+    width: 91%;
+    height: 90%;
+    margin-top: 30px;
+    margin-left: 60px;
+    position: absolute;
+}
+/*Inicio*/
+.titulo{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.barcode {
+    height: 240px;
+    width: 250px;
+    margin-left: 550px;
+    position: relative;
+}
+.barra{
+    background-color: #90EE90;
+    width: 100%;
+    height: 15.1%;
+    margin-top: 93px;
+    margin-left: 0px;
+    border-top: 1px solid rgb(0, 70, 41); 
+    border-bottom: 1px solid rgb(0, 70, 41); 
+    position: absolute;
+}
+.barraf{
+    background-color: #90EE90;
+    width: 99.80%;
+    height: 13.65%;
+    margin-top: 193px;
+    margin-left: 0px;
+    border: 1px solid rgb(0, 70, 41); 
+    position: absolute;
+}
+.logo{
+    height: 240px;
+    width: 250px;
+    margin-top: 15px;
+    margin-left: 550px;
+    position: relative; 
+}
+/*No encontrado*/
+.noenc{
+    height: 300px;
+    width: 250px;
+    margin-left: 550px;
+    margin-top: 80px;
+    position: relative; 
+}
+/*Encontrado*/
+.logo2{
+    height: 100px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 85%;
+    position: absolute;
+}
+.nombre{
+    margin-top: 60px;
+    margin-left: 30%;
+    text-align: left;
+}
+.precio{
+    background-color: #E0E0E0;
+    margin-top: 60px;
+    margin-left: 20%;
+    margin-right: 66%;
+    text-align: left;
+}
+.desc{
+    background-color: #E0E0E0;
+    margin-top: 40px;
+    margin-left: 12%;
+    margin-right: 45%;
+    height: 35%;
+    width: 33%;
+    text-align: left; 
+}
+.imgp{
+    height: 0px;
+    width: 400px;
+    margin-left: 850px;
+    margin-top: -180px;
+    position: absolute;  
+}
+.cantidad{
+    margin-top: 5%;
+    font-size: 40px;
+    text-align: center;
+}
