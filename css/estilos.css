@@ -31,11 +31,18 @@ h1 {
 .titulo{
     margin-top: 10px;
     margin-bottom: 50px;
+    color: rgb(17, 12, 92);
+}
+.mensaje{
+    color: rgb(17, 12, 92);
+    font-size: 50px;
 }
 .barcode {
-    height: 240px;
-    width: 250px;
-    margin-left: 550px;
+    height: 200px; /*240*/
+    width: 300px; /*250*/
+    margin-top: 10px;
+    margin-left: 550px; /*550*/
+    margin-bottom: 0px;
     position: relative;
 }
 .barra{
@@ -58,16 +65,17 @@ h1 {
     position: absolute;
 }
 .logo{
-    height: 240px;
-    width: 250px;
+    height: 250px; /*230*/
+    width: 300px; /*240*/
     margin-top: 15px;
-    margin-left: 550px;
+    margin-left: 550px; /*550*/
+    margin-bottom: 0px;
     position: relative; 
 }
 /*No encontrado*/
 .noenc{
-    height: 300px;
-    width: 250px;
+    height: 400px; /*300*/
+    width: 500px;/*250*/
     margin-left: 550px;
     margin-top: 80px;
     position: relative; 
@@ -102,9 +110,9 @@ h1 {
     text-align: left; 
 }
 .imgp{
-    height: 0px;
+    height: 350px;
     width: 400px;
-    margin-left: 850px;
+    margin-left: 850px; /*850*/
     margin-top: -180px;
     position: absolute;  
 }

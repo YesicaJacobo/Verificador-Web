@@ -1,0 +1,10 @@
+C:\Users\Yesica\source\repos\VerificadorWeb\bin\Debug\VerificadorWeb.exe.config
+C:\Users\Yesica\source\repos\VerificadorWeb\bin\Debug\VerificadorWeb.exe
+C:\Users\Yesica\source\repos\VerificadorWeb\bin\Debug\VerificadorWeb.pdb
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.csproj.AssemblyReference.cache
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.Form1.resources
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.Properties.Resources.resources
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.csproj.GenerateResource.cache
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.exe
+C:\Users\Yesica\source\repos\VerificadorWeb\obj\Debug\VerificadorWeb.pdb
